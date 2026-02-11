@@ -63,6 +63,5 @@ Click the badge below to open in Google Colab:
 ---
 
 ## Author
-Zintle Thandile Mgwelo
-Woman Techsters Fellowship – Machine Learning Track
+Zintle Thandile Mgwelo - Women Techster Fellowship (Data Science & Engineering Track)
 
